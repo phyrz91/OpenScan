@@ -5,17 +5,17 @@ description: An open source app that enables users to scan hardcopies of
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
-version: 2.2.0+4
+version: 2.2.1+5
 
 environment:
-  sdk: '>=3.2.4 <4.0.0'
+  sdk: ^3.5.3
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_scanner_cropper:
     git:
-      url: https://github.com/Ethereal-Developers-Inc/flutter-scanner-plugin.git
+      url: https://github.com/ethereal-developers/flutter-scanner-plugin.git
       ref: master
       path: flutter_scanner_cropper/
   cupertino_icons:
