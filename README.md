@@ -2,11 +2,6 @@
 
 An open source app that enables users to scan hardcopies of documents or notes and convert it to a PDF file. No ads. No data collection. We respect your privacy.
 
-# PSA
-### OpenScan was delisted from the Play Store because a dependency had an unnecessary permission to request installing other apps (Request Install Packages Permission). We are working on getting it relisted.
-
-### However, the app remains available on IzzyOnDroid.
-
 ---
 
 
