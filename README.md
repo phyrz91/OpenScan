@@ -2,6 +2,9 @@
 
 An open source app that enables users to scan hardcopies of documents or notes and convert it to a PDF file. No ads. No data collection. We respect your privacy.
 
+---
+
+
 [<img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/master/gplay%20badge.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ethereal.openscan)
 
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="80">](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)
@@ -24,7 +27,7 @@ We bring you OpenScan, an app which respects your privacy coupled with comprehen
 We _differentiate_ our self from the rest of the apps in the market by:
 
 1. **Open Sourcing** our app
-2. **Respecting your data privacy** (by not collecting any document data knowingly)
+2. **Respecting your data privacy**
 
 # KEY FEATURES
 
@@ -46,29 +49,6 @@ We _differentiate_ our self from the rest of the apps in the market by:
 - Never miss another lecture notes. All documents are timestamped, so just look up the date or time of the lecture to quickly bring up the lecture notes.
 - Take pictures of the whiteboards or the blackboards for future reference and save those as PDFs.
 - Upload your class notes to your choice of cloud storage instantly.
-
-## PACKAGES USED
-
-- flutter_scanner_cropper:
-  - git:
-    - url: https://github.com/Ethereal-Developers-Inc/flutter-scanner-plugin.git
-    - ref: master
-    - path: flutter_scanner_cropper/
-- cupertino_icons: ^0.1.3
-- flutter_speed_dial: ^1.2.5
-- focused_menu: ^1.0.1
-- image_picker: ^0.8.4
-- open_file: ^3.2.1
-- path_provider: ^2.0.2
-- pdf: ^3.6.0
-- permission_handler: ^8.0.1
-- quick_actions: ^0.6.0+2
-- reorderables: ^0.3.2
-- share_extend: ^1.1.9
-- shared_preferences: ^0.5.7+3
-- simple_animated_icon: ^1.0.0
-- sqflite: ^1.3.1+2
-- url_launcher: ^6.0.6
 
 # BUILD INSTRUCTIONS
 
@@ -102,7 +82,7 @@ Set up your editor of choice. [Official Flutter Docs for setting up editor](http
 # SCREENSHOTS
 
 <p align="center">
-<img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/master/assets/home.jpg" height=400>
+  <img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/master/assets/home.jpg" height=400>
   <img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/master/assets/view_doc_01.jpg" height=400>
-    <img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/master/assets/view_doc_04.jpg" height=400>
+  <img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/master/assets/view_doc_04.jpg" height=400>
 </p>
